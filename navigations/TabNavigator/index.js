@@ -7,8 +7,7 @@ function TabNavigator() {
 
     <Tab.Navigator>
       <Tab.Screen name="Home" component={HomeScreen} />
-      <Tab.Screen name="Lesson" component={LessonScreen} />
-      <Tab.Screen name="Premium" component={PremiumScreen} />
+      <Tab.Screen name="Settings" component={Settings} />
     </Tab.Navigator>
   );
 }

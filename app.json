@@ -5,6 +5,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.tudosecatalin.ccorner"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "83f82529-2c14-41d5-8e51-653d528e3cf6"
+      }
+    }
   }
 }
